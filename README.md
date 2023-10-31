@@ -1,4 +1,4 @@
-# S3Integration
+# Amazon AWS S3 + C# integration
 Amazon AWS S3's SDK integration for .NET
 
 ## Before Running the project...
