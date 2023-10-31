@@ -12,4 +12,4 @@ Assign the values accurately to prevent unexpected behavior.
 
 Now your are ready to test the integration.
 
-### Note: if you don't know how to get yor `AWS_ACCESS_KEY` and `AWS_ACCESS_SECRET_KEY` click [here](https://www.youtube.com/watch?v=39X5WdZbEwQ)
+#### Note: if you don't know how to get yor `AWS_ACCESS_KEY` and `AWS_ACCESS_SECRET_KEY` click [here](https://www.youtube.com/watch?v=39X5WdZbEwQ)
